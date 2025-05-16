@@ -1,3 +1,6 @@
+# This file implements a Human_Detection class that uses a YOLOv7-based model
+# with mask prediction to detect, segment, and visualize humans in images, 
+# including optional bounding box drawing and background masking.
 import cv2
 import torch
 import yaml
