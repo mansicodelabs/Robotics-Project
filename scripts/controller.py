@@ -1,4 +1,4 @@
-
+# This file implements a simple PID (Proportional-Integral-Derivative) controller class for computing control signals based on error feedback.
 
 class PID:
     def __init__(self, P, I, D):
