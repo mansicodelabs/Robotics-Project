@@ -1,3 +1,7 @@
+# This file defines the SuperPoint neural network in PyTorch for keypoint detection and descriptor
+# extraction, along with preprocessing, postprocessing (NMS), and matching utilities for 
+# feature-based vision tasks.
+
 import torch
 import numpy as np
 import time
