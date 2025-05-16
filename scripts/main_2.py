@@ -1,3 +1,6 @@
+# This file defines a HumanTracker ROS node that detects, identifies, and tracks a human in real-time using 
+# feature descriptors, histogram matching, and depth-based PID control for robot motion.
+
 import cv2
 import numpy as np
 import rospy
