@@ -1,3 +1,5 @@
+# This file defines a VideoStream class to initialize, read frames from, and safely close a webcam stream using OpenCV.
+
 import cv2
 
 #image.shape[0] = width
